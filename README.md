@@ -29,3 +29,7 @@ In conclusion, this quiz app is a great way to understand the basics of building
 
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/d38ee5c2-34e6-4e17-8cd9-400def86f941)
+
+![Image](https://github.com/user-attachments/assets/d1c17d5b-68ad-4927-8f7c-3763cc902a41)
+
+![Image](https://github.com/user-attachments/assets/37e8568e-170f-44a2-a7e1-88d548cf1eb5)
