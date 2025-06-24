@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ultimate Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="quiz-wrapper">
+    <header>
+      <h1>Ultimate Quiz Challenge</h1>
+      <p>Test your knowledge across various topics!</p>
+    </header>
+
+    <main class="quiz-container" id="quiz">
+      <h2 id="question">Question text</h2>
+      <ul id="answers"></ul>
+      <button id="next-btn" class="btn hidden">Next Question</button>
+
+      <div id="result" class="hidden">
+        <h3>🎉 You scored <span id="score">0</span> out of <span id="total">0</span></h3>
+        <button id="restart-btn" class="btn">Restart Quiz</button>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Quiz App | Powered by HTML, CSS, JavaScript</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
