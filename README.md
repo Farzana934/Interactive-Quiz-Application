@@ -26,3 +26,6 @@ This type of quiz application can be useful in many areas. For example, it can b
 The project was built entirely on the frontend, meaning it does not require a server or database to run. It can be hosted easily on websites like **GitHub Pages**, Netlify, or Vercel for free. This makes it a great beginner project to learn and practice web development skills.
 
 In conclusion, this quiz app is a great way to understand the basics of building a web application using only HTML, CSS, and JavaScript. It shows how to structure a web page, style it nicely, and make it interactive using JavaScript. It is simple to use, looks good, and can be expanded with many new features in the future. It’s also a great addition to any developer’s portfolio.
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/d38ee5c2-34e6-4e17-8cd9-400def86f941)
